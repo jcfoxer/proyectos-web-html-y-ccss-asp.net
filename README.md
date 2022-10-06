@@ -1,2 +1,2 @@
 # proyectos
-proyectos  de maquetacion en html y css en asp.net  
+proyectos  de maquetacion en html y css 
