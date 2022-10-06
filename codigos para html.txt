@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Títulos y parrafos</title>
+</head>
+<body>
+<h1>Titulo de nivel 1: Etiqueta h1</h1>
+<h2>Titulo de nivel 2: Etiqueta h2</h2>
+<h3>Titulo de nivel 3: Etiqueta h3</h3>
+<h4>Titulo de nivel 4: Etiqueta h4</h4>
+<h5>Titulo de nivel 5: Etiqueta h5</h5>
+<h6>Titulo de nivel 6: Etiqueta h6</h6>
+<p>Este es un párrafo que esta delimitado por la etiqueta p 
+    de párrafo. y es un elemento de bloque al igual
+    que los anteriores, por eso al acabar el texto salta 
+    a la línea siguiente.</p>
+<p>Este es otro párrafo, tambien creado con la etiqueta p,
+    pero más corto.</p>
+</body>
+</html>
