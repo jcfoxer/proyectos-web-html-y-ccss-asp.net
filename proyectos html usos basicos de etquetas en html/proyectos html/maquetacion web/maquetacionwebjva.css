@@ -1,0 +1,97 @@
+#lado-izquierdo1{
+    background-color:#be6bbc;
+    height: 50px;
+    width: 1000px;
+}
+#lado-centro{
+    background-color:#271c18;
+  
+    height: 50px;
+    width: 100px;
+}
+#lado-derecho1{
+    height: 50px;
+    width: 100px;
+    float: right;
+    background-color:#0e67c0;
+}
+#contenedor{
+    height: 100px;
+    background-color:#a5b3ad;
+    
+    clear: both;
+}
+#lado-izquierdo2{
+    height:50%;
+    background-color:#a0126a;
+    
+    width:50%;
+
+
+
+}
+#lado-izquierdo2{
+    height:50%;
+    background-color:#90da1b;
+    
+    width:50%;
+}
+#lado-izquierdo2{
+    height:50%;
+    background-color:#ca495a;
+    
+    width:50%;
+}   
+#lado-centro1{
+    height:50%;
+    background-color:#94a89a;
+    
+    width:50%;
+}
+#lado-derecho2{
+    height:50%;
+    background-color:#12ec50;
+    
+    width:50%;
+}
+#contenedor-central{
+    height:50%;
+    background-color:#9fa7a1;
+    
+    width:50%;
+}   
+#lado-izquierdo3{
+    height:50%;
+    background-color:#0a1f10;
+    
+    width:50%;
+}    
+#lado-centro2{
+    height:50%;
+    background-color:#53a822;
+    
+    width:50%;
+}
+#lado-derecho3{
+    height:50%;
+    background-color:#b0e4bf;
+    
+    width:50%;
+}
+#lado-izquierdo2{
+    height:50%;
+    background-color:#148d36;
+    
+    width:50%;
+}
+#contenedor2{
+    height: 100px;
+    background-color:#0dc450;
+    
+    clear: both;
+}
+#contenedor3{
+    height: 100px;
+    background-color:#6cbceb;
+    clear:both;
+}
