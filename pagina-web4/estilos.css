@@ -1,0 +1,46 @@
+﻿body {
+}
+
+.Tabla{
+
+    width:800px;
+
+
+
+}
+
+.Encabezado{
+    height:50px;
+    text-align:center;
+    background-color:#034c81;
+    color:#ffffff;
+    font-size:large;
+}
+.Menu{
+
+    height:300px;
+    width:200px;
+    background-color:#77bef1;
+    font-size:medium;
+    text-align:center;
+    color:#ffffff;
+
+}
+.Contenido{
+
+    width:600px;
+    text-align:center;
+    color:#034c81;
+    font-size:medium;
+
+}
+
+.Pie{
+
+    height:40px;
+    text-align:center;
+    margin-top:0px;
+    background-color:#302929;
+    color:#ffffff;
+    font-size:large;
+}
