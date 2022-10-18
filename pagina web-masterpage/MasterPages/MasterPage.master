@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPages_MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+ 
+    <title></title>
+<link href="../CSS/estilos.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+        <table align="center" class="Tabla">
+                <tr>
+                    <td colspan="2" class="Encabezado">encabezado  de la aplicacion </td>
+                </tr>
+                <tr>
+                    <td class="Menu">Menu<br/>
+                        opción 1<br />                            
+                        opción 2 <br />   
+                        opcion 3 <br />  
+                    
+                           </td>                
+                                                
+<td class="Contenido">     
+
+        <asp:ContentPlaceHolder id="Cphcontenido1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+    </td>
+    </tr>
+   <tr>
+   
+<td colspan="2" class="Pie">PIE DE PAGINA</td>   
+</tr>
+</table>
+
+         </div>
+    </form>
+</body>
+</html>
