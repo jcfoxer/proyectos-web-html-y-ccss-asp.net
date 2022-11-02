@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="master_MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>pagina maestra</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../css/estilos.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div>
+             <div id="navbar">
+                <ul>
+                    <li><a href="Default.aspx">inicio</a></li>
+                    <li><a href="Nosotros.aspx">nosotros</a></li>
+                    <li><a href="Servicios.aspx">servicios</a></li>
+                    <li><a href="Galeria.aspx">galería</a></li>
+                    <li><a href="Contacto.aspx">contacto</a></li>
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+
+
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <div id="footer">
+                <span>cotrina.juan@iestpjva.edu.pe</span>
+                <span>Whatsapp +51  964760109  </span>
+                <span>www.github.com/jcfoxer</span>
+            </div>
+
+    </div>
+    </form>
+</body>
+</html>
